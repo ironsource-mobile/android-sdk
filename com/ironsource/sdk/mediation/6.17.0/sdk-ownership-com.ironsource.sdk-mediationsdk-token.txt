@@ -1,0 +1,4 @@
+This file is used to indicate ownership of the SDK by a specific entity.
+
+SDK Identifier: com.ironsource.sdk:mediationsdk
+SDK Ownership Key: 05642964-061a-4b74-9a13-0d101c9fd87a
