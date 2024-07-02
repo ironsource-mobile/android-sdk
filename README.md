@@ -9,7 +9,7 @@ https://developers.is.com/ironsource-mobile/android/android-sdk/
 ## Version History 
 You can find a summary of the LevelPlay SDK version history [here](https://developers.is.com/ironsource-mobile/android/sdk-change-log/)
 
-## Contact US 
+## Contact Us
 For any question please contact us [here](https://ironsrc.my.site.com/helpcenter/s/)
 
 ## License 
