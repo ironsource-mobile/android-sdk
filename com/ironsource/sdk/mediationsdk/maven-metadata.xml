@@ -3,7 +3,7 @@
   <groupId>com.ironsource.sdk</groupId>
   <artifactId>mediationsdk</artifactId>
   <versioning>
-    <release>8.10.0</release>
+    <release>8.11.0</release>
     <versions>
       <version>6.5.0</version>
       <version>6.5.1</version>
@@ -135,7 +135,8 @@
       <version>8.9.0</version>
       <version>8.9.1</version>
       <version>8.10.0</version>
+      <version>8.11.0</version>
     </versions>
-    <lastUpdated>20250707121445</lastUpdated>
+    <lastUpdated>20250819134828</lastUpdated>
   </versioning>
 </metadata>
